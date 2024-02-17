@@ -751,6 +751,8 @@ footer .top .logo img
         max-width: 90%;
         flex-direction: column;
         margin-inline: 0;
+        align-items: center;
+        justify-content:center;
     }
     .gradient-section, .form-section
     {
