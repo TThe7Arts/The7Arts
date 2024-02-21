@@ -812,3 +812,10 @@ footer .top .logo img
         transform: rotate(360deg);
     }
 }
+@media screen and (max-width:1589px)
+{
+    .about .left img
+    {
+        width:50px;
+    }
+}
