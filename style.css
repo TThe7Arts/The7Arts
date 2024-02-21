@@ -816,6 +816,7 @@ footer .top .logo img
 {
     .about .left img
     {
-        display:none;
+        width:25px;
+        height:5px;
     }
 }
