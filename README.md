@@ -20,9 +20,6 @@ Welcome to The7Arts, your gateway to a transformative journey through the divers
 
 **Get started:**
 
-* **Minimum requirements:** [List of required hardware and software]
-* **Installation instructions:** [Step-by-step guide for installing The7Arts]
-* **Community resources:** [Links to forums, tutorials, and other helpful resources]
 
 **Embark on an unforgettable adventure with The7Arts. Let your imagination soar, explore the boundless potential of art, and discover the artist within!**
 
