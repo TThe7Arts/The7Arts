@@ -812,7 +812,7 @@ footer .top .logo img
         transform: rotate(360deg);
     }
 }
-@media screen and (max-width:1590px)
+@media screen and (max-width:1670px)
 {
     .about .left img
     {
