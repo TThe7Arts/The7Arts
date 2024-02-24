@@ -159,6 +159,7 @@ nav button#menuButton{
 {
     background-color: #3461ca;
     border-radius: 25px;
+    padding : 25px;
 }
 .skills{
     padding: 110px 85px 0;
