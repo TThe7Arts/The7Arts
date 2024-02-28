@@ -155,7 +155,7 @@ nav button#menuButton{
     animation: rotateOculus 2s infinite cubic-bezier(1, 0.30, 0.25, 0.80);
     z-index: -1;
 }
-.main a
+.main .left .btn-patreon a
 {
     background-color: #3461ca;
     border-radius: 25px;
